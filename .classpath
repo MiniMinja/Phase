@@ -6,5 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/minyo/Desktop/Documents/JavaFiles/com.miniminja.Mindow.jar"/>
+	<classpathentry kind="lib" path="C:/Users/minyo/Desktop/Documents/JavaFiles/com.miniminja.IOAssistTool.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

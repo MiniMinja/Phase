@@ -1,5 +1,7 @@
 package com.miniminja.phase;
 
-public class Phase {
+import Mindow.Mindow;
 
+public class Phase {
+	
 }
