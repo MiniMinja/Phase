@@ -29,7 +29,7 @@ public class CardTester {
 		Mindow m = Mindow.getDefault();
 		Drawer.setDrawer(new CardDrawer() {
 			public void draw(Graphics g) {
-				g.drawImage(newCard, 0, 0, null);
+				g.drawImage(newCard, 0, 0, 100, 100, null);
 			}
 		});
 		Thread job = new Thread(new Runnable() {
